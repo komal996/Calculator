@@ -41,8 +41,6 @@ A Java program that accepts marks for multiple subjects and calculates the stude
 
 ---
 
- How to Run Task 2
-
 # Compile the program
 
 ```bash
