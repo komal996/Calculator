@@ -39,13 +39,6 @@ A Java program that accepts marks for multiple subjects and calculates the stude
 - If-else statements
 - VS Code
 
----
-
-# Compile the program
-
-```bash
-javac GradeCalculator.java
-
 
 
 
