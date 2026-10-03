@@ -37,7 +37,4 @@ The main objective of this project is to practice:
 - Conditional statements
 - Exception/Input validation
 
-│
-├── NumberGuessingGame.java
-├── README.md
-└── .gitignore
+
