@@ -1,28 +1,42 @@
-# Task 2 – Student Grade Calculator
+Task 2: Student Grade Calculator
 
-This project is a **Student Grade Calculator** developed using **Java** as part of my **VEDA Technology Internship – Task 2**.
+A Java program that accepts marks for multiple subjects and calculates the student's total marks, percentage, and grade.
 
-## Features
-- Enter student name
-- Enter number of subjects
-- Enter marks for each subject
-- Calculate total marks
-- Calculate percentage
-- Calculate grade from A+ to F
-- Validates marks between 0 and 100
-- Handles invalid number of subjects
+# Fetures
 
-## Technologies Used
+- Student name input
+- Multiple subject marks input
+- Array-based marks storage
+- Total marks calculation
+- Percentage calculation
+- Grade calculation
+- Validation for invalid marks
+- Validation for the number of subjects
+- Use of loops
+- Use of conditional statements
+- Methods for calculation logic
+
+# Grade Criteria
+
+| Percentage | Grade |
+|------------|-------|
+| 90–100% | A+ |
+| 80–89% | A |
+| 70–79% | B |
+| 60–69% | C |
+| 50–59% | D |
+| 40–49% | E |
+| Below 40% | F |
+
+# Technologies Used
+
 - Java
 - JDK
 - Scanner
 - Arrays
 - Methods
-- Conditional Statements
-
-## How to Run
-
-```bash
-javac GradeCalculator.java
-java GradeCalculator
+- Loops
+- If-else statements
+- 
+- VS Code
 
