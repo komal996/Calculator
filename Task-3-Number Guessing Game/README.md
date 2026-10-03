@@ -1,12 +1,12 @@
 # Task 3 – Number Guessing Game
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a **Number Guessing Game** developed using **Java** as part of my **VEDA Technology Internship – Task 3**.
 
 The program generates a random number between **1 and 100**. The user has to guess the number. After each guess, the program provides a hint such as **"Too high"** or **"Too low"** until the correct number is guessed.
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this project is to practice:
 
@@ -17,7 +17,7 @@ The main objective of this project is to practice:
 - Attempt counting
 - Basic game logic
 
-## ✨ Features
+##  Features
 
 - Generates a random number between 1 and 100
 - Accepts user guesses through the console
@@ -27,7 +27,7 @@ The main objective of this project is to practice:
 - Handles invalid/non-numeric input
 - Displays the correct number and total attempts after winning
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Java**
 - **JDK**
