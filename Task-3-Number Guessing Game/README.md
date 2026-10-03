@@ -1,93 +1,43 @@
- Task 2: Student Grade Calculator
+# Task 3 – Number Guessing Game
 
-A Java program that accepts marks for multiple subjects and calculates the student's total marks, percentage, and grade.
+## 📌 Project Overview
 
-# Fetures
+This project is a **Number Guessing Game** developed using **Java** as part of my **VEDA Technology Internship – Task 3**.
 
-- Student name input
-- Multiple subject marks input
-- Array-based marks storage
-- Total marks calculation
-- Percentage calculation
-- Grade calculation
-- Validation for invalid marks
-- Validation for the number of subjects
-- Use of loops
-- Use of conditional statements
-- Methods for calculation logic
+The program generates a random number between **1 and 100**. The user has to guess the number. After each guess, the program provides a hint such as **"Too high"** or **"Too low"** until the correct number is guessed.
 
-# Grade Criteria
+## 🎯 Objective
 
-| Percentage | Grade |
-|------------|-------|
-| 90–100% | A+ |
-| 80–89% | A |
-| 70–79% | B |
-| 60–69% | C |
-| 50–59% | D |
-| 40–49% | E |
-| Below 40% | F |
+The main objective of this project is to practice:
 
-# Technologies Used
-
-- Java
-- JDK
-- Scanner
-- Arrays
-- Methods
-- Loops
-- If-else statements
-- VS Code
-
-
-
-
-# 💻 Task 1:Command-Line Calculator – Java
-Java command-line calculator supporting five basic arithmetic operations with input validation.
-
-
-## Project Overview
-
-This project is a **Command-Line Calculator** developed using Java as part of an internship task at **VEDA Technology**.
-
-The application performs basic mathematical operations based on user input through the command line.
-
-## Objective
-
-The objective of this project is to practice:
-
-- Java syntax
-- Variables and data types
-- Operators
-- Methods
-- User input using `Scanner`
-- Switch-case statements
-- Exception handling
+- Random number generation
+- Loops and conditions
+- User interaction
 - Input validation
+- Attempt counting
+- Basic game logic
 
-## Features
+## ✨ Features
 
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- `%` Modulus
-- ⌨️ User input using Scanner
-- ⚠️ Invalid input handling
-- 🚫 Division-by-zero handling
-- 🚫 Modulus-by-zero handling
-- 🔧 Separate methods for each operation
+- Generates a random number between 1 and 100
+- Accepts user guesses through the console
+- Provides **Too High** and **Too Low** hints
+- Counts the number of attempts
+- Continues until the correct number is guessed
+- Handles invalid/non-numeric input
+- Displays the correct number and total attempts after winning
 
-##  Technologies Used
+## 🛠️ Technologies Used
 
 - **Java**
 - **JDK**
-- **VS Code**
+- `java.util.Random`
+- `java.util.Scanner`
+- Loops
+- Conditional statements
+- Exception/Input validation
 
-## 📂 Project Structure
-
-text
-Calculator/
 │
-├── Calculator.java
-└── README.md
+├── NumberGuessingGame.java
+├── README.md
+└── .gitignore
