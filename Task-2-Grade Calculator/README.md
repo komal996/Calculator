@@ -37,6 +37,5 @@ A Java program that accepts marks for multiple subjects and calculates the stude
 - Methods
 - Loops
 - If-else statements
-- 
 - VS Code
 
