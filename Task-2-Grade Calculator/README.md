@@ -1,5 +1,4 @@
-Task 2: Student Grade Calculator
-
+Task 2 – Student Grade Calculator
 A Java program that accepts marks for multiple subjects and calculates the student's total marks, percentage, and grade.
 
 # Fetures
